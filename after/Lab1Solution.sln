@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1ConsoleApp", "Lab1ConsoleApp\Lab1ConsoleApp.csproj", "{9E707E81-4F72-473E-8B44-CD89AC68A98A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_Fundamentals", "..\SOLID_Fundamentals\SOLID_Fundamentals.csproj", "{7CF64CFC-45FE-7035-CB18-F109D3DD1547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E707E81-4F72-473E-8B44-CD89AC68A98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E707E81-4F72-473E-8B44-CD89AC68A98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E707E81-4F72-473E-8B44-CD89AC68A98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E707E81-4F72-473E-8B44-CD89AC68A98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF64CFC-45FE-7035-CB18-F109D3DD1547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF64CFC-45FE-7035-CB18-F109D3DD1547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF64CFC-45FE-7035-CB18-F109D3DD1547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF64CFC-45FE-7035-CB18-F109D3DD1547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD95179F-6C8D-4884-A837-85DE1D1956CF}
+	EndGlobalSection
+EndGlobal
